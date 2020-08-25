@@ -1,0 +1,11 @@
+body{
+	background: linear-gradient(to right, yellow, orange);
+}
+
+h1{
+	color: red;
+	border: solid 2px red;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 2em;
+}
