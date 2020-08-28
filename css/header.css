@@ -1,12 +1,9 @@
-body{
-    margin:0px;
-    padding:0px;
+header{
+     position: sticky;
+     top:0px;
+     z-index:5;
 }
 
-*{
-    /* border:1px solid; */
-    box-sizing: border-box;
-}
 .heading{
 
     width:100%;
